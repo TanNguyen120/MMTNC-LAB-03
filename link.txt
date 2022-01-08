@@ -1,0 +1,9 @@
+LINK YOUTUBE DEMO: https://youtu.be/zXpOx0OStj0
+
+************************************************************************************
+
+LINK PUBLIC REPOS: https://github.com/TanNguyen120/simple-node-server-ex.git
+
+************************************************************************************
+
+LINK PUBLIC IMAGES: docker pull 1612599/simpleweb
